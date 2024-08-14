@@ -7,8 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        graphik: ['Graphik','sans-serif'],
-        'graphik-bold': ['Graphik-bold','sans-serif']
+        graphik: ['Graphik','sans-serif']
+        'graphik-bold': ['Graphik','sans-serif']
       }
     },
   },

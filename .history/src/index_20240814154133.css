@@ -8,9 +8,3 @@
   font-style: normal;
   font-display: swap;
 }
-@font-face {
-  font-family: "Graphik";
-  src: url(./fonts/Graphik/Graphik-Regular-Trial.otf) format("opentype");
-  font-style: normal;
-  font-display: swap;
-}
