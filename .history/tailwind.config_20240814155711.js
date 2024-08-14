@@ -11,10 +11,7 @@ export default {
         'graphik-bold': ['Graphik-bold','sans-serif']
       },
       colors: {
-        primary: '#2091F9',
-        text: '#252B42',
-        decondaryText: '#374754',
-        darkBrackground: '#252B42'
+        primary: '9F9F9F'
       }
     },
   },
