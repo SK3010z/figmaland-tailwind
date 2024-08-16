@@ -4,8 +4,8 @@ function App() {
   return (
     <div className="bg-darkBackground justify-center pb-16 text-center justify-items-center">
       <div className="bg-green-200">
-        <Heading color="white">Hello World of heading 1</Heading>
-        <Heading type='h2' color="white">Hello World of heading 2</Heading>
+        <Heading>Hello World of heading 1</Heading>
+        <Heading type='h2'>Hello World of heading 2</Heading>
       </div>
 
       <Button>Primary</Button>

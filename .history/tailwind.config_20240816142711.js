@@ -14,7 +14,7 @@ export default {
         primary: '#2091F9',
         text: '#252B42',
         decondaryText: '#374754',
-        darkBackground: '#252B42'
+        darkBrackground: '#252B42'
       }
     },
   },

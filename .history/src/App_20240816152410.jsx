@@ -2,11 +2,10 @@ import { Button } from "./components/Button"
 import { Heading } from "./components/Heading"
 function App() {
   return (
-    <div className="bg-darkBackground justify-center pb-16 text-center justify-items-center">
-      <div className="bg-green-200">
-        <Heading color="white">Hello World of heading 1</Heading>
-        <Heading type='h2' color="white">Hello World of heading 2</Heading>
-      </div>
+    <div className="bg-darkBrackground justify-center pb-16 text-center justify-items-center">
+
+      <Heading>Hello World of heading 1</Heading>
+      <Heading>Hello World of heading 2</Heading>
 
       <Button>Primary</Button>
       <Button variant="secondary">Secondary</Button>
