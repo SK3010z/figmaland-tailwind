@@ -10,7 +10,7 @@ export const CalendarFeature = ({}) => {
                     <Heading type="h2" className="text-center lg:text-left lg:max-w-[336px]">
                         Fatest way to organize
                     </Heading>
-                    <Heading type="h4" className="mb-[60px] mt-4 text-center lg:text-left lg:mb-[70px] lg:mt-[19px] lg:max-w-[532px]">
+                    <Heading type="h4" className="mb-[60px] mt-4 text-center lg:text-left lg:mb-[70px] lg:mt-[19px] lg:max-w-[332px]">
                         Most calendars are designed for teams. Slate is designed
                         for freelancers
                     </Heading>

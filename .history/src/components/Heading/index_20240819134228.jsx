@@ -8,7 +8,7 @@ export const Heading = ({children, type = "h1", color = '', className = ''}) => 
     }
     if (type == "h4") {
         return (
-            <h1 className={`${className} text-[28px] leading-[40px] font-graphik ${customizedColor}`}>{children}</h1>
+            <h1 className={`${className} text-[4.625rem] leading-[40px] font-graphik-bold ${customizedColor}`}>{children}</h1>
         )
     }
 
